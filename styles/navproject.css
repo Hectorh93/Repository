@@ -1,0 +1,40 @@
+.bottom_wrapper {
+
+    background-color: #36383f;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bottom_wrapper>.TEPW_buttons {
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.bottom_wrapper>.TEPW_buttons>.nav_button {
+    display: flex;
+    border: solid #6a6a69 2px;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: center;
+    height: 4rem;
+
+}
+
+.bottom_wrapper>.TEPW_buttons>.nav_button>.button {
+    font-size: 1.5rem;
+}
+
+.great_highlight {
+  font-family: "Afacad", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 1000;
+font-size: 1.5em;
+letter-spacing: -2px;
+font-variation-settings:
+    "wdth" 75,
+    "YTLC" 540;
+}

@@ -1,0 +1,16 @@
+body {
+     margin: 0px;
+     font-family: "Lato", sans-serif;
+     background-color:#191a1d;
+     min-width: 1349px;
+     zoom:120%
+}
+
+.blue_text{
+     color:aqua;
+}
+
+.spacer100{
+     height: 100px;
+     width: 100%;
+}
